@@ -1,8 +1,9 @@
 # Project Goal
-Evaluating Sentiment Analysis performance on bank customer reviews in India and North America using python NLP.
+- Evaluating Sentiment Analysis performance on bank customer reviews in India and North America using python NLP.
+- This project was done in a jupyter notebook in Google Colab.
 
 ## Dataset Summary
-The project utilized customer reviews from both Indian and hypothetical North American banks. These datasets included varied feedback on banking services, enabling a comparative analysis of sentiment classification.
+The project utilized customer review data from both Indian (d1 in code) and hypothetical North American (d2 in code) banks. These datasets included varied feedback on banking services, enabling a comparative analysis of sentiment classification.
 
 ## Skills Used
 Applied statistical and NLP techniques to preprocess text, analyze sentiment, and conduct topic modeling. Evaluated model performance with statistical tests and visualizations, highlighting insights from different geographic datasets.
